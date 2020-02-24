@@ -12,3 +12,4 @@ What I learned from this course includes:
 - Responsive images in HTML and CSS for faster pageloads
 - SVG images and videos in HTML and CSS: build a background video effect
 - The NPM ecosystem: development workflows and building processes
+<img src="https://github.com/Shan-Mi/Natour-Udemy/blob/master/img/CSS-outdoors-udemy.jpg">
